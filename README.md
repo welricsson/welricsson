@@ -25,6 +25,12 @@ Caso queiram me contatar diretamente, podem usar um destes canais:<br>
 
 <br>
 
+## Projetos:
+
+* **Analisando os Dados do Airbnb - Rio de Janeiro:** https://bit.ly/2LrIaI7
+* **Manipulando arquivos PDF:** https://bit.ly/3lrZsEF
+
+
 
 * **Perfil em construção...:**
 
