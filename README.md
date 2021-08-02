@@ -13,8 +13,10 @@ Atualmente estou:
 Escrevi um artigo para o meu primeiro projeto que está disponível no Medium:<br>
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@welricsson)](https://medium.com/@welricsson)
 
-O repositório do projeto está disponível aqui: 
+## Repositório dos projetos:
+
 * **Analisando os Dados do Airbnb - Rio de Janeiro:** https://bit.ly/2LrIaI7
+* **Manipulando arquivos PDF:** https://bit.ly/3lrZsEF
 
 Para mais detalhes sobre a minha experiência e trajetória, podem acessar o meu perfil do LinkedIn:<br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/welricsson/)](https://www.linkedin.com/in/welricsson/)
@@ -25,10 +27,7 @@ Caso queiram me contatar diretamente, podem usar um destes canais:<br>
 
 <br>
 
-## Projetos:
 
-* **Analisando os Dados do Airbnb - Rio de Janeiro:** https://bit.ly/2LrIaI7
-* **Manipulando arquivos PDF:** https://bit.ly/3lrZsEF
 
 
 
