@@ -18,6 +18,7 @@ Escrevi um artigo para o meu primeiro projeto que está disponível no Medium:<b
 * **Analisando os Dados do Airbnb - Rio de Janeiro:** https://bit.ly/2LrIaI7
 * **Manipulando arquivos PDF:** https://bit.ly/3lrZsEF
 
+<br>
 Para mais detalhes sobre a minha experiência e trajetória, podem acessar o meu perfil do LinkedIn:<br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/welricsson/)](https://www.linkedin.com/in/welricsson/)
 
