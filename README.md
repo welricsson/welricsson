@@ -13,7 +13,7 @@ Atualmente estou:
 Escrevi um artigo para o meu primeiro projeto que está disponível no Medium:<br>
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@welricsson)](https://medium.com/@welricsson)
 
-## Repositório dos projetos:
+## Projetos:
 
 * **Analisando os Dados do Airbnb - Rio de Janeiro:** https://bit.ly/2LrIaI7
 * **Manipulando arquivos PDF:** https://bit.ly/3lrZsEF
