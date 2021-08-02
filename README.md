@@ -22,10 +22,11 @@ Escrevi um artigo para o meu primeiro projeto que está disponível no Medium:<b
 <!--
 Para mais detalhes sobre a minha experiência e trajetória, podem acessar o meu perfil do LinkedIn:<br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/welricsson/)](https://www.linkedin.com/in/welricsson/)
--->
+
 Caso queiram me contatar diretamente, podem usar um destes canais:<br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:welricsson@gmail.com)](mailto:welricsson@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/welricsson)](https://t.me/welricsson)
+-->
 
 <br>
 
