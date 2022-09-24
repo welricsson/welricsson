@@ -3,7 +3,7 @@
   Oi 👋 Eu me chamo Welricsson 👨‍💻
 </h1>
 <p align='center'>
-  Sou <strong>Analista de dados</strong> na <a href="https://www.marketdata.com.br/">Marketdata Solutions Brasil</a></p>
+  Sou <strong>Analista de BI</strong> na <a href="https://www.empiricus.com.br/">Empiricus</a></p>
 </p>
 
 Atualmente estou:  
